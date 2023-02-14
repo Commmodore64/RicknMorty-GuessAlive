@@ -24,4 +24,4 @@ This will start the development server and you can access your application at ht
 ```
 
 # Conclusion
-This template provides a great starting point for building your next web application with React, Tailwind CSS, and Vite. By using this template, you can take advantage of best practices and a preconfigured setup, allowing you to focus on writing your application's code. Give it a try and let us know what you think!
+This template provides a great starting point for building your next web application with React, Tailwind CSS, and Vite. By using this template, you can take advantage of best practices and a preconfigured setup, allowing you to focus on writing your application's code. Give it a try and let us know what you think!# RicknMorty-GuessAlive
