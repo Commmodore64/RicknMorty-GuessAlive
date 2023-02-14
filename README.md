@@ -17,3 +17,6 @@ This will start the development server and you can access your application at ht
 
 # Conclusion
 This simple page created with REACTJS was a practice for my class, the use of an API using it in a page with a specific function.
+
+REACT STARTER KIT made by NathanLazo
+https://github.com/NathanLazo/react-tailwind-vite
