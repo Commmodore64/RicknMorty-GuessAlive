@@ -1,20 +1,12 @@
-# React-Tailwind-Vite Boilerplate
-Welcome to the React-Tailwind-Vite Boilerplate template! This is a modern, lightweight, and fast boilerplate for building web applications. With this template, you can quickly start building your next web application with ease.
-
-## What's included
-The repository contains a simple project setup with the following components:
-
-- **React**, a JavaScript library for building user interfaces.
-- **Tailwind** CSS, a highly-customizable, low-level CSS framework.
-- **Vite**, a fast and efficient build tool for modern web development.
-- Additionally, this template includes best practices and a preconfigured setup to make your development experience as smooth as possible.
+# Rick And Morty Guess Status !
+Welcome to a basic game using the rick and morty API, where you must find out if the character shown is alive or dead. Linked to the events of the series.
 
 ## Getting Started
-To start using this template, simply clone the repository and install the dependencies:
+To use this project, clone this repository and follow the commands below:
 
 ```shell
-$ git clone https://github.com/NathanLazo/react-tailwind-vite.git
-$ cd react-tailwind-vite
+$ git clone https://github.com/Commmodore64/RicknMorty-GuessAlive.git
+$ cd ricknmorty
 $ npm install
 ```
 Once the dependencies are installed, you can start the development server:
@@ -24,4 +16,4 @@ This will start the development server and you can access your application at ht
 ```
 
 # Conclusion
-This template provides a great starting point for building your next web application with React, Tailwind CSS, and Vite. By using this template, you can take advantage of best practices and a preconfigured setup, allowing you to focus on writing your application's code. Give it a try and let us know what you think!# RicknMorty-GuessAlive
+This simple page created with REACTJS was a practice for my class, the use of an API using it in a page with a specific function.
